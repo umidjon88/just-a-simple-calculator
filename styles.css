@@ -57,9 +57,10 @@ button:active{
   color: rgb(0, 140, 255);
 }
 
-.operator-btn:hover {
+/*.operator-btn:hover {
   background-color: hsl(0, 0%, 79%);
 }
+*/
 
 .operator-btn:active {
   background-color: hsl(0, 0%, 62%);
@@ -78,4 +79,5 @@ button:active{
 .equal:active {
   background-color: rgb(182, 182, 182);
   color: rgba(0, 140, 255, 0.685);
+
 }
