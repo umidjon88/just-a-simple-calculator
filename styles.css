@@ -81,3 +81,12 @@ button:active{
   color: rgba(0, 140, 255, 0.685);
 
 }
+
+
+/* RESPONSIVE */
+@media (max-width: 600px) {
+  .hero {
+    padding: 30px 10px;
+  }
+}
+
